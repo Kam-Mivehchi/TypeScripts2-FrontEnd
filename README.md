@@ -38,8 +38,10 @@ This TypeScripts build is a decoupled set up, with the server repository locatio
 
 ### Built With
 
-* [HTML](https://developer.mozilla.org/en-US/docs/Web/HTML)
-* [CSS](https://developer.mozilla.org/en-US/docs/Web/CSS)
+* [React.js](https://reactjs.org/)
+* [CSS3](https://developer.mozilla.org/en-US/docs/Web/CSS)
+* [Tailwind CSS](https://tailwindcss.com/)
+* [React Router](https://reactrouter.com/)
 * [Javascript](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 * [Node.js](https://nodejs.org/en/)
 * [React.js](https://reactjs.org/)
